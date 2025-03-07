@@ -1,12 +1,12 @@
 module.exports = {
     // your server name
-    server_name: "Growtopia",
+    server_name: "Unity",
     // public ipv4
-    server_ip: "127.0.0.1",
+    server_ip: "134.209.98.223",
     // UDP port
     server_port: 17091,
     // login url dashboard
-    loginurl: "login.cdngtps.my.id",
+    loginurl: "unitylogurl.vercel.app",
     // meta
-    meta: "name=GrowPlus&ip=127.0.0.1&port=17091&3rd=0",
+    meta: "name=GrowPlus&ip=134.209.98.223&port=17091&3rd=0",
 }
